@@ -56,13 +56,9 @@
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li><a href="#">Action</a></li>
-                    <li><a href="#">Another action</a></li>
-                    <li><a href="#">Something else here</a></li>
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Nav header</li>
-                    <li><a href="#">Separated link</a></li>
-                    <li><a href="#">One more separated link</a></li>
+                    <li><a href="#">Facebook</a></li>
+                    <li><a href="#">Twitter</a></li>
+                    <li><a href="#">Instagram</a></li>
                   </ul>
                 </li>
               </ul>
@@ -88,6 +84,7 @@
           <img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:First slide" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
+		<img src="http://www.eventportalzentrale.de/modules/eventkalender/flyer/18/2014-02-22_123792_united_states_austin_asylum_algebraic_an_adventure_time_theme_event_2_22_14_512.jpg"> 
               <h1>Example headline.</h1>
               <p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>
               <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
