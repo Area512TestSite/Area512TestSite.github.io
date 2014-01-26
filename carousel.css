@@ -10,12 +10,17 @@ body {
 
 
 p{
-	color:red;
+	color:black;
 }
 
 h2{
-	color:green;
+	color:white;
 }
+
+span{
+	color:red;
+}
+
 
 
 

@@ -10,13 +10,16 @@ body {
 
 
 p{
-	color:green;
+	color:white;
 }
 
 h2{
-	color:green;
+	color:white;
 }
 
+span{
+	color:green
+}
 
 
 
