@@ -9,6 +9,14 @@ body {
 }
 
 
+p{
+	color:white;
+}
+
+h1{
+	color:green;
+}
+
 
 
 
