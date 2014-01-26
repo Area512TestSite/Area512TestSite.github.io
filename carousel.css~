@@ -10,10 +10,10 @@ body {
 
 
 p{
-	color:white;
+	color:green;
 }
 
-h1{
+h2{
 	color:green;
 }
 
