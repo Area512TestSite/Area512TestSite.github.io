@@ -5,12 +5,10 @@
 body {
   padding-bottom: 40px;
   color: #5a5a5a;
+  background-color: #777;
 }
 
-div{
-	 color: #5a5a5a;
 
-}
 
 
 

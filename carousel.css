@@ -5,9 +5,17 @@
 body {
   padding-bottom: 40px;
   color: #5a5a5a;
-  background-color: #5a5a5a;
+  background-color: #777;
 }
 
+
+p{
+	color:white;
+}
+
+h1{
+	color:green;
+}
 
 
 
